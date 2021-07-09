@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+<head>
+	<title>Часть 4 синтаксис CSS </title>
+	<meta http-equiv="content-type" content="text/html" ;="" charset="UTF-8">
+	<link rel="stylesheet" href="/index.HASH_REF_582de7139a4bde6be7df5eabfc36c076.css">
+</head>
+<body>
+	<div class="card">
+		<div class="left">
+			<div class="white-block">
+				<p>
+					Lorem ipsum, dolor sit amet
+				</p>
+			</div>
+		</div>
+		<div class="right">
+			<div class="header">
+				<div class="logo">
+					<b>
+						<p>BLOW</p>
+					</b>
+				</div>
+			</div>
+			<div class="button">
+			</div>
+		</div>
+	</div>
+</body>
+</html><script src="/index.HASH_REF_1cf92b8ac789bf0c8bd4b6d53ebff041.js"></script>

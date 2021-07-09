@@ -1,0 +1,59 @@
+body{
+	padding: 50px;
+	margin: 50px;
+	background: #300436;
+}
+
+.card {
+	width: 1200px;
+	height: 750px;
+	margin-top: 100px;
+	background-color: white;
+	border-radius: 20px;
+}
+
+.left {
+	background-color: white;
+	width: 150px;
+	height: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border-bottom-left-radius: 20px;
+	border-top-left-radius: 20px;
+}
+
+.right {
+	background-color: rgb(242, 227, 211);
+	width: 1045px;
+	height: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	vertical-align: top;
+}
+
+.logo {
+	margin-left: 55px;
+	margin-top: 55px;
+}
+
+.blow-text {
+	font-size: 40px;
+	font-family: Arial;
+	color: #333;
+}
+
+.vertical-text {
+	position: relative;
+	width: 450px;
+	display: inline-block;
+	transform: rotate(180deg);
+}
+
+.long-text {
+	width: 100%;
+	font-size: 30px;
+}
